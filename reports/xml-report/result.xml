@@ -1,0 +1,9 @@
+<testsuites>
+	<testsuite id="1" tests="2" failures="0" package="C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec" time="63.841" timestamp="2020-04-19T11:11:34" name="Login Specification" errors="0" hostname="DESKTOP-BA02C49">
+		<properties></properties>
+		<testcase classname="Login Specification" name="Registered user login into the application" time="36.887"></testcase>
+		<testcase classname="Login Specification" name="Unregistered user login into the application" time="26.954"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

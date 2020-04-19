@@ -1,0 +1,57 @@
+17-04-2020 07:15:28.865 [Gauge] [INFO] Watching directory: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs
+17-04-2020 07:15:28.870 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-04-2020 07:15:28.903 [Gauge] [DEBUG] Found 1 files
+17-04-2020 07:15:28.908 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-04-2020 07:15:28.908 [Gauge] [DEBUG] Adding specs from C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+17-04-2020 07:15:28.908 [Gauge] [INFO] Initializing steps cache with 1 steps
+17-04-2020 07:15:28.908 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50513
+17-04-2020 07:20:05.106 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User login into marketplace using email \"jes238@yopmail.com\" and password \"Chicago1\"" > 
+17-04-2020 07:20:05.106 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User login into marketplace using email {} and password {}" parameterizedStepValue:"User login into marketplace using email <jes238@yopmail.com> and password <Chicago1>" parameters:"jes238@yopmail.com" parameters:"Chicago1" > > 
+17-04-2020 07:20:05.252 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User login into marketplace using email <email> and password <password>" > 
+17-04-2020 07:20:05.252 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User login into marketplace using email {} and password {}" parameterizedStepValue:"User login into marketplace using email <email> and password <password>" parameters:"email" parameters:"password" > > 
+17-04-2020 07:20:05.252 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User login into marketplace using email <email> and password <password>" > 
+17-04-2020 07:20:05.252 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User login into marketplace using email {} and password {}" parameterizedStepValue:"User login into marketplace using email <email> and password <password>" parameters:"email" parameters:"password" > > 
+17-04-2020 08:04:03.128 [Gauge] [INFO] Watching directory: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs
+17-04-2020 08:04:03.129 [Gauge] [DEBUG] Found 1 files
+17-04-2020 08:04:03.133 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-04-2020 08:04:03.133 [Gauge] [DEBUG] Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+17-04-2020 08:04:03.133 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-04-2020 08:04:03.133 [Gauge] [DEBUG] Adding specs from C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+17-04-2020 08:04:03.133 [Gauge] [INFO] Initializing steps cache with 1 steps
+17-04-2020 08:04:03.133 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50052
+17-04-2020 08:05:29.522 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User login into marketplace using email \"jes238@yopmail.com\" and password \"Chicago1\"" > 
+17-04-2020 08:05:29.523 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User login into marketplace using email {} and password {}" parameterizedStepValue:"User login into marketplace using email <jes238@yopmail.com> and password <Chicago1>" parameters:"jes238@yopmail.com" parameters:"Chicago1" > > 
+17-04-2020 08:05:29.561 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User login into marketplace using email <email> and password <password>" > 
+17-04-2020 08:05:29.562 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User login into marketplace using email {} and password {}" parameterizedStepValue:"User login into marketplace using email <email> and password <password>" parameters:"email" parameters:"password" > > 
+17-04-2020 08:05:29.563 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User login into marketplace using email <email> and password <password>" > 
+17-04-2020 08:05:29.564 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User login into marketplace using email {} and password {}" parameterizedStepValue:"User login into marketplace using email <email> and password <password>" parameters:"email" parameters:"password" > > 
+18-04-2020 14:24:04.135 [Gauge] [DEBUG] Unable to send analytics data, timed out
+18-04-2020 15:48:04.134 [Gauge] [DEBUG] Unable to send analytics data, timed out
+18-04-2020 21:09:07.598 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+18-04-2020 21:09:07.610 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+18-04-2020 21:17:47.778 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User Login into site using email \"jes238@yopmail.com\" and password \"Chicago\"" > 
+18-04-2020 21:17:47.779 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User Login into site using email {} and password {}" parameterizedStepValue:"User Login into site using email <jes238@yopmail.com> and password <Chicago>" parameters:"jes238@yopmail.com" parameters:"Chicago" > > 
+18-04-2020 21:17:47.779 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User Login into site using email \"jes238@yopmail.com\" and password \"Chicago\"" > 
+18-04-2020 21:17:47.779 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User Login into site using email {} and password {}" parameterizedStepValue:"User Login into site using email <jes238@yopmail.com> and password <Chicago>" parameters:"jes238@yopmail.com" parameters:"Chicago" > > 
+18-04-2020 21:17:53.747 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+18-04-2020 21:17:53.752 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+19-04-2020 10:42:43.278 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+19-04-2020 10:42:43.288 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+19-04-2020 11:07:08.206 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+19-04-2020 11:07:08.285 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+19-04-2020 11:07:08.758 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+19-04-2020 11:07:08.834 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+19-04-2020 11:07:10.583 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify title of the page" > 
+19-04-2020 11:07:10.583 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify title of the page" parameterizedStepValue:"Verify title of the page" > > 
+19-04-2020 11:07:43.861 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User Login into site using email \"jes2318@yopmail.com\" and password \"Chicago1\"" > 
+19-04-2020 11:07:43.861 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User Login into site using email {} and password {}" parameterizedStepValue:"User Login into site using email <jes2318@yopmail.com> and password <Chicago1>" parameters:"jes2318@yopmail.com" parameters:"Chicago1" > > 
+19-04-2020 11:08:24.637 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+19-04-2020 11:08:24.646 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+19-04-2020 11:09:35.140 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User Login into site using email \"jes2318@yopmailMy account - My Stor.com\" and password \"Chicago1\"" > 
+19-04-2020 11:09:35.143 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User Login into site using email {} and password {}" parameterizedStepValue:"User Login into site using email <jes2318@yopmailMy account - My Stor.com> and password <Chicago1>" parameters:"jes2318@yopmailMy account - My Stor.com" parameters:"Chicago1" > > 
+19-04-2020 11:09:35.178 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify title of the page \"e\"" > 
+19-04-2020 11:09:35.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify title of the page {}" parameterizedStepValue:"Verify title of the page <e>" parameters:"e" > > 
+19-04-2020 11:09:41.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify title of the page \"Login - My Store\"" > 
+19-04-2020 11:09:41.761 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify title of the page {}" parameterizedStepValue:"Verify title of the page <Login - My Store>" parameters:"Login - My Store" > > 
+19-04-2020 11:10:02.698 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
+19-04-2020 11:10:02.706 [Gauge] [INFO] Spec file added / modified: C:\Users\kalra\IdeaProjects\GaugeWebMobileProject\specs\Login.spec
